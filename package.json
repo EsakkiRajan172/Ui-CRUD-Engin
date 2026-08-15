@@ -1,7 +1,7 @@
 {
-  "name": "visual-backend-platform-frontend",
+  "name": "visual-backend-platform-flat",
   "private": true,
-  "version": "4.1.0-responsive-ui-only",
+  "version": "4.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
